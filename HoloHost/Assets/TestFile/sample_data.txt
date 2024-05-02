@@ -1,0 +1,9 @@
+object
+id:0
+name:rosie
+position:-19.51,6.06,6.06
+label:[robot,red,rosie,rosy,rosi,chatbot,chat-bot,chat robot]
+description:The robot in vxlab, designed to be used for greeting to vistors
+
+[VR,game,helicopter,flight simulator]
+The Heli simulator will let your fly above Melbourne and look around.
